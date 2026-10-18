@@ -1,0 +1,1 @@
+# Persist-ncia-Linux-com-GSocket-um-estudo-de-Red-Team
