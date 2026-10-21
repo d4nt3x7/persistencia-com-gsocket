@@ -26,7 +26,7 @@ clear
 echo "$BANNER"
 echo
 
-# 1. Instala o gsocket com o instalador oficial
+#  Instala o gsocket com o instalador oficial
 echo "[*] Instalando Global Socket..."
 bash -c "$(curl -fsSL https://gsocket.io/y)"
 
